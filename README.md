@@ -7,6 +7,8 @@
 
 [ArrayList](https://github.com/q1248807225/Java-Study/blob/main/Java/Collection/ArrayList.md)
 
+[ThreadLocal](https://github.com/q1248807225/Java-Study/blob/main/Java/Collection/ThreadLocal.md)
+
 # JVM
 
 [JVM思维导图](https://github.com/q1248807225/Java-Study/blob/main/Java/JVM.pdf)
