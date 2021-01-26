@@ -68,3 +68,21 @@ Q: 谈谈ArrayList扩容？
 
 A：1. 初始计算新容量为老容量的1.5倍。2. 如果新容量不够时，先判读是否第一次调用。3. 是否为达到容量最大阈值。
 
+Q: ArrayList实现？
+
+A：ArrayList底层数据结构利用数组，在无参构造方法中，数组初始化大小为0.当add的时候会扩容，初始扩容大小为10。其余每次扩容为原来的容量的1.5倍。
+
+Q：ArrayList是线程安全的么？
+
+A：当然不是。在ArrayList的add中并没有加入任何锁。所以在并发add的过程中会出现线程安全的问题。但可以利用CopyOnWriteArrayList来代替ArrayList解决线程安全问题。
+
+Q：介绍下CopyOnWriteArrayList？
+
+A：首先先介绍一下CopyOnWrite。 cow是计算机程序设计领域中的一种通用优化策略。当多个调用者访问相同资源时，每个调用者访问的是资源的副本。修改副本后，将副本覆盖到资源上。再来介绍下CopyOnWriteArrayList。CopyOnWriteArrayList是利用cow概念，当add时，CopyOnWriteArrayList会复制一个数组进行add，在去更新原数组。在操作过程中加入了synchronized来解决多个副本的问题。
+
+
+
+
+
+
+
