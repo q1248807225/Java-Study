@@ -36,6 +36,8 @@
 
 [redis 理解主从、哨兵、集群区别](https://github.com/q1248807225/Java-Study/blob/main/redis/redis%20%E4%B8%BB%E4%BB%8E%E3%80%81%E5%93%A8%E5%85%B5%E3%80%81%E9%9B%86%E7%BE%A4.md)
 
+[redis过期与淘汰](https://github.com/q1248807225/Java-Study/blob/main/redis/redis%20%E8%BF%87%E6%9C%9F%E4%B8%8E%E6%B7%98%E6%B1%B0.md)
+
 ## 框架
 ### spring
 [spring循环以来mock实现](https://github.com/q1248807225/Java-Study/blob/main/spring/spring%20%E5%BE%AA%E7%8E%AF%E4%BE%9D%E8%B5%96.md)
