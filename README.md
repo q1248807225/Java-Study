@@ -34,6 +34,8 @@
 ### redis 思维导图
 [redis 思维导图](https://github.com/q1248807225/Java-Study/blob/main/redis/redis.pdf)
 
+[redis 理解主从、哨兵、集群区别](https://github.com/q1248807225/Java-Study/blob/main/redis/redis%20%E4%B8%BB%E4%BB%8E%E3%80%81%E5%93%A8%E5%85%B5%E3%80%81%E9%9B%86%E7%BE%A4.md)
+
 ## 框架
 ### spring
 [spring循环以来mock实现](https://github.com/q1248807225/Java-Study/blob/main/spring/spring%20%E5%BE%AA%E7%8E%AF%E4%BE%9D%E8%B5%96.md)
