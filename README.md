@@ -25,6 +25,7 @@
 
 ## 设计模式
 [命令模式](https://github.com/q1248807225/Java-Study/blob/main/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md)
+
 [策略模式](https://github.com/q1248807225/Java-Study/blob/main/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)
 
 ## 推荐系统相关
