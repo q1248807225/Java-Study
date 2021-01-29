@@ -30,12 +30,10 @@
 
 ## 推荐系统相关
 
-### 推荐系统流程图
 [推荐系统流程图](https://github.com/q1248807225/Java-Study/blob/main/recommend/%E6%8E%A8%E8%8D%90%E6%B5%81%E7%A8%8B.pdf)
 
 ## redis
 
-### redis 思维导图
 [redis 思维导图](https://github.com/q1248807225/Java-Study/blob/main/redis/redis.pdf)
 
 [redis 理解主从、哨兵、集群区别](https://github.com/q1248807225/Java-Study/blob/main/redis/redis%20%E4%B8%BB%E4%BB%8E%E3%80%81%E5%93%A8%E5%85%B5%E3%80%81%E9%9B%86%E7%BE%A4.md)
