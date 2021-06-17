@@ -42,6 +42,10 @@
 
 [redis过期与淘汰](https://github.com/q1248807225/Java-Study/blob/main/redis/redis%20%E8%BF%87%E6%9C%9F%E4%B8%8E%E6%B7%98%E6%B1%B0.md)
 
+## MySQL
+
+[MySQL 思维导图](https://github.com/q1248807225/Java-Study/blob/main/MySQL/MYSQL.pdf)
+
 ## 框架
 ### spring
 [spring循环以来mock实现](https://github.com/q1248807225/Java-Study/blob/main/spring/spring%20%E5%BE%AA%E7%8E%AF%E4%BE%9D%E8%B5%96.md)
