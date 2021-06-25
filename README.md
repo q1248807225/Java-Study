@@ -16,6 +16,7 @@
 ## 数据结构
 
 [LRU的实现](https://github.com/q1248807225/Java-Study/blob/main/dataStructure/LRU.md)
+[LRU LinkedHashMap实现](https://github.com/q1248807225/Java-Study/blob/main/dataStructure/LRU%20LinkedHashMap%20%E5%AE%9E%E7%8E%B0.md)
 
 ## Concurrent
 [Java并发锁(刚开头)](https://github.com/q1248807225/Java-Study/blob/main/concurrent/Java%E5%B9%B6%E5%8F%91%E9%94%81.md)
