@@ -162,7 +162,7 @@ Q: 为什么不是1 或者 0.5？
 
 Q：为什么HashMap桶中元素个数大于8转换成红黑树？
 
-A： TreeNode占用空间是Node的两倍。所以尽量不希望Node变成TreeNode。而随着链表越来越长。查询时间复杂度为O(n)，需要降低耗时，将Node转换成TreeNode。查询时间复杂度为O(log(n)). 泊松分布观察8层节点个概率为0.00000006。
+A： TreeNode占用空间是Node的两倍。所以尽量不希望Node变成TreeNode。而随着链表越来越长。查询时间复杂度为O(n)，需要降低耗时，将Node转换成TreeNode。查询时间复杂度为O(log(n)). hash碰撞观察8层节点个概率为0.00000006。
 
 Q: 为什么HashMap树的退化的阈值是6?
 
